@@ -1,0 +1,11 @@
+node_modules
+npm-debug.log
+.vscode
+.idea
+*.iml
+dump.zip
+supersamples.opts
+public/assets/attachments
+private/
+dump/
+*~
